@@ -20,7 +20,6 @@ The app integrates **HuggingFace models, LangChain (RAG), FinBERT to provide a r
 
 ## 🔗 Links  
 - **[GitHub Repository](https://github.com/S-Shipra/AI-Powered-Financial-Summarizer)**  
-- **Screenshots**: _[Add Google Drive link here]_  
 
 ---
 
@@ -37,7 +36,6 @@ The app integrates **HuggingFace models, LangChain (RAG), FinBERT to provide a r
 ### Core Libraries  
 - Python 3.10+  
 - Torch (PyTorch backend for HuggingFace models)  
-- SentencePiece, Protobuf  
 
 ---
 
