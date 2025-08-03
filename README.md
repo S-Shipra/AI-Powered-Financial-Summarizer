@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 💹 AI-Powered Financial Summarizer  
 
 ## 📝 Description  
